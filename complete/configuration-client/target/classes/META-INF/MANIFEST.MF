@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: qin682
+Build-Jdk: 11.0.3
+Implementation-Title: configuration-client
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.example
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/configuration-client
+Created-By: Maven Integration for Eclipse
+

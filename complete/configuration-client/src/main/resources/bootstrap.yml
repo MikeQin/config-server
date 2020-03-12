@@ -1,0 +1,14 @@
+#spring:
+#  application:
+#    name: a-bootiful-client
+#  cloud:
+#    config:
+#      uri: http://localhost:8888
+spring:
+  application:
+    name: amazefoto-photo
+  cloud:
+    config:
+      uri: http://h0004407.associatesys.local:8888
+      username: amazefoto
+      password: amazefoto

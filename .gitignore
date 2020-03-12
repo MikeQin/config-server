@@ -18,4 +18,4 @@ target/
 *.ipr
 
 ### Mac Specific ###
-*.DS_Store
+**/.DS_Store

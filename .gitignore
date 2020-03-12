@@ -1,6 +1,9 @@
-### Maven ###
-target/
+HELP.md
+**/target/**
+**/build/**
 !.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**
+!**/src/test/**
 
 ### STS ###
 .apt_generated
@@ -17,5 +20,14 @@ target/
 *.iml
 *.ipr
 
-### Mac Specific ###
-**/.DS_Store
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+**/build/
+
+### VS Code ###
+.vscode/
+**/*.DS_Store
